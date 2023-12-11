@@ -1,4 +1,6 @@
 *.csv
+*.docx
 output/
+*.pptx
 __pycache__
 
